@@ -12,6 +12,8 @@ Pre-requisites:
 * Web-server (Apache, nginx, etc.) running PHP
 
 
+![alt text](https://raw.github.com/forhadahmed/mathematica/master/mathematica.png "Mathematica Web Screenshot")
+
 
 
 
