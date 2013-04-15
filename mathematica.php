@@ -1,14 +1,14 @@
 <?php 
 
-// Globals ====================================================================
+// Globals ===========================================================================
 
-$mathematica = 'C:/mathematica8/math.exe'; // Location of the 'math kernel' 
+$mathematica = 'C:/mathematica/math.exe';  // Location of the 'math kernel' 
 
-$www_root = 'Z:/web/mathematica/';         // WWW root
+$www_root = 'C:/www/mathematica/';         // Mathematica Root (under DocumentRoot)
 
-$tmpdir = 'temp/';                         // Temp directory (under WWW root)
+$tmpdir = 'temp/';                         // Temp directory (under Mathematica Root)
  
-// ============================================================================
+// ===================================================================================
 
 $math = $_GET['math'];
 
