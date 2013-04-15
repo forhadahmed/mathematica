@@ -11,11 +11,6 @@ rather, a simple interface for that *quick computation* that is required when yo
 * **Mathematica** installed on a networked machine
 * Web-server (Apache, nginx, etc.) running PHP
 
-###### Notes:
-
-* Mostly tested with Apache/PHP on Windows. No major issues.
-* Linux has some issues with graphics rendering but mostly works.
-
 ###### Installation:
 
 1. Copy out the files here into a directory inside your DocumentRoot (e.g. `C:/www/mathematica/`)
@@ -27,5 +22,9 @@ rather, a simple interface for that *quick computation* that is required when yo
 ![alt text](https://raw.github.com/forhadahmed/mathematica/master/mathematica.png "Mathematica Web Screenshot")
 
 
+###### Notes:
+
+* Tested with Apache/PHP on Windows. No major issues. Linux has some issues with graphics but mostly works.
+* **Expression evaluated are independent** - you cannot use a value assigned in a previous expression
 
 
