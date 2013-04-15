@@ -1,0 +1,8 @@
+warning to users if they set a variable that their setting will not be permanent
+show "loading" gif when user presses enter for a computation
+up arrow cycles thru history of input
+displayed graphics should be wider
+plots don't have a fixed-width font for axes
+global settings tweaks
+transparent favicon
+prompt style same as mathematica (In[]/Out[])
