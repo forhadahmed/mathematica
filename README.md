@@ -8,8 +8,8 @@ rather, a simple interface for that *quick computation* that is required when yo
 
 Pre-requisites:
 
-* **Mathematica** installed on a **Linux** machine (Support for other OS'es forthcoming!)
-* Web-server running PHP
+* **Mathematica** installed on a networked machine
+* Web-server (Apache, nginx, etc.) running PHP
 
 
 
