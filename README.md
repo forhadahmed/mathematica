@@ -28,7 +28,7 @@ http://circuitsoft.net/mathematica
 
 ###### Notes:
 
-* Tested with Apache/PHP on Windows - no major issues. Linux has some issues with graphics but mostly works.
+* Tested with Mathematica 8 on Windows - no major issues. Linux has some issues with graphics but mostly works.
 * **Evaluated expressions are independent** - you cannot use a value assigned in a previous expression
 
 
