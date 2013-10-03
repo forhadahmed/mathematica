@@ -1,4 +1,4 @@
-Web application interface for Mathematica
+Web Interface for Mathematica
 =========================================
 
 A simple clean **web interface** for a local install of the **Mathematica** kernel.
